@@ -18,8 +18,8 @@ Implementar una arquitectura de procesador RISC-V con diseño de ciclo único (s
 Código ensamblado para ejecutar
 
 ## Imágenes
-<img src="images/wave.png" alt="wave" width="600">
-<img src="images/RTL.png" alt="RTL Viewer" width="600">
-<img src="images/TMV.png" alt="TMV" width="600">
-<img src="images/Slow_1200mV_0c_Model_Fmax_Summary.png" alt="Slow 1200mV 0c Model Fmax Summary" width="600">
-<img src="images/Slow_1200mV_85c_Model_Fmax_Summary.png" alt="Slow 1200mV 85c Model Fmax Summary" width="600">
+<img src="images/wave.jpg" alt="wave" width="600">
+<img src="images/RTL.jpg" alt="RTL Viewer" width="600">
+<img src="images/TMV.jpg" alt="TMV" width="600">
+<img src="images/Slow_1200mV_0c_Model_Fmax_Summary.jpg" alt="Slow 1200mV 0c Model Fmax Summary" width="600">
+<img src="images/Slow_1200mV_85c_Model_Fmax_Summary.jpg" alt="Slow 1200mV 85c Model Fmax Summary" width="600">
